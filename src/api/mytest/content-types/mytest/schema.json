@@ -1,0 +1,24 @@
+{
+  "kind": "singleType",
+  "collectionName": "mytests",
+  "info": {
+    "singularName": "mytest",
+    "pluralName": "mytests",
+    "displayName": "mytest",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "bannerimage": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images"
+      ]
+    }
+  }
+}

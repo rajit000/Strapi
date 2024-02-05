@@ -1,0 +1,33 @@
+{
+  "kind": "collectionType",
+  "collectionName": "industries",
+  "info": {
+    "singularName": "industry",
+    "pluralName": "industries",
+    "displayName": "Industry",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string"
+    },
+    "image": {
+      "type": "media",
+      "multiple": false,
+      "required": false,
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ]
+    },
+    "MyNumber": {
+      "type": "integer"
+    }
+  }
+}

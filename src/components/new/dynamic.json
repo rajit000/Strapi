@@ -1,0 +1,17 @@
+{
+  "collectionName": "components_new_dynamics",
+  "info": {
+    "displayName": "Dynamic",
+    "icon": "cube",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "DynamicTitle": {
+      "type": "string"
+    },
+    "DynamicDescription": {
+      "type": "text"
+    }
+  }
+}
